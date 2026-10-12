@@ -1,0 +1,10 @@
+# 8086 Assembly Projects .gitignore
+*.exe
+*.EXE
+*.obj
+*.OBJ
+*.bak
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
